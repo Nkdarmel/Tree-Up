@@ -17,7 +17,7 @@ Tree-Up is an open-source desktop application that leverages computer vision to 
 
 * Saves time: Automates the tedious process of manual image processing and annotation.
 * Improves accuracy: Computer vision algorithms reduce human error and bias.
-* Enhances research efficiency: Too-Up enables researchers to focus on higher-level tasks, such as data interpretation and hypothesis testing.
+* Enhances research efficiency: Too-Up enables engineer or conservationists to focus on higher-level tasks, such as data interpretation and hypothesis testing.
 
 ## Getting Started
 
