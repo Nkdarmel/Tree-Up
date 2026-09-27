@@ -4,7 +4,7 @@ Open-source desktop app for turning solar reflect images and videos into clean, 
 
 ## Overview
 
-Tree-Up is an open-source desktop application that leverages computer vision to transform camera trap images and videos from your solar reflect into clean, analysis- ready datasets. This tool helps researchers and conservationists streamline their data collection process, reducing the time spent on manual image processing and annotation.
+Tree-Up is an open-source desktop application that leverages computer vision to transform camera trap images and videos from your solar reflect into clean, analysis- ready datasets. This tool helps engineer and conservationists streamline their data collection process, reducing the time spent on manual image processing and annotation.
 
 ### Features:
 
